@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-freemarker:2.7.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-freemarker/2.7.12-SNAPSHOT/spring-boot-starter-freemarker-2.7.12-20230515.173432-34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-freemarker/2.7.12-SNAPSHOT/spring-boot-starter-freemarker-2.7.12-20230515.173432-34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-freemarker/2.7.12-SNAPSHOT/spring-boot-starter-freemarker-2.7.12-20230515.173432-34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
